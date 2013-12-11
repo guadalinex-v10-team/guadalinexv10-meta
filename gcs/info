@@ -2,7 +2,7 @@
 # Fichero de configuración de paquetes de personalización de Guadalinex v6
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: meta-guadalinexv9
+name: guadalinexv9-meta
 
 # Autor 
 author: Roberto C. Morano <rcmorano@emergya.es>
