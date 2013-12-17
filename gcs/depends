@@ -5,7 +5,8 @@
 ### Guadalinex specific
 ##Metapkgs
 #guadalinexv9-about
-#guadalinexv9-artwork
+guadalinexv9-artwork
+guadalinexv9-casper-conf
 #guadalinexv9-base-files-conf
 #guadalinexv9-desktop-conf
 #guadalinexv9-example-content
