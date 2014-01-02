@@ -126,8 +126,8 @@ locate
 metapixel
 mtp-tools
 myspell-en-gb
-mythes-en-au
-mythes-en-us
+#mythes-en-au
+#mythes-en-us
 myspell-es
 #n
 netcat
