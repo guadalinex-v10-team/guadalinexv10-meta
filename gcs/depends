@@ -185,6 +185,15 @@ winetricks
 wine-gecko2.24
 wine-mono4.5.2
 
+ubuntu-restricted-addons 
+ubuntu-restricted-extras
+flashplugin-installer
+gstreamer0.10-ffmpeg
+gstreamer0.10-fluendo-mp3
+unrar
+gstreamer0.10-plugins-bad-multiverse
+libavcodec-extra-53
+
 gnome-dictionary
 gcstar
 gtg 
