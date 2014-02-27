@@ -4,6 +4,7 @@ guadalinexv9-help-mantis
 
 acpi-support
 usbutils
+pciutils
 command-not-found
 acl
 vim
