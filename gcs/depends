@@ -53,6 +53,7 @@ ttf-ubuntu-font-family
 xdg-user-dirs
 xdg-user-dirs-gtk
 gnome-terminal
+gnome-system-monitor
 zenity
 
 usb-modeswitch
