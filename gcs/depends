@@ -5,6 +5,10 @@ gecosws-mdm-theme
 gecosws-icon-theme
 gecosws-firefox-wrapper
 
+synaptic
+apturl
+update-manager
+
 acpi-support
 usbutils
 pciutils
