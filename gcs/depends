@@ -33,6 +33,10 @@ libpam-gnome-keyring
 
 ubuntu-keyring
 linuxmint-keyring
+mint-common 
+mintsystem 
+mint-backgrounds-qiana 
+mint-artwork-common
 
 plymouth-theme-ubuntu-logo
 plymouth-theme-ubuntu-text
@@ -135,8 +139,6 @@ rhythmbox
 totem 
 rhythmbox-plugins 
 totem-plugins 
-gstreamer0.10-plugins-bad 
-gstreamer0.10-plugins-ugly  
 libgpod-common 
 libmtp-runtime 
 rhythmbox-plugin-cdrecorder
@@ -147,9 +149,6 @@ bluez-cups
 eog
 yelp
 evince
-gstreamer0.10-plugins-bad-multiverse
-gstreamer0.10-ffmpeg
-gstreamer0.10-fluendo-mp3
 libavcodec-extra-53
 simple-scan
 nemo-share
@@ -157,7 +156,16 @@ samba
 cinnamon-themes
 gnome-screenshot
 gnome-disk-utility
-
+bluez-audio 
+bluez-gstreamer 
+gnome-media 
+xfburn 
+gstreamer1.0-plugins-bad 
+gstreamer1.0-vaapi 
+gstreamer1.0-plugins-ugly 
+gstreamer1.0-fluendo-mp3 
+gstreamer1.0-tools 
+gstreamer1.0-x
 libreoffice
 libreoffice-pdfimport
 libreoffice-gnome
@@ -165,13 +173,13 @@ libreoffice-l10n-es
 libreoffice-help-es
 libreoffice-officebean
 libreoffice-gtk3
-libreoffice-style-human
+#libreoffice-style-human
 fonts-liberation
 
 nemo-fileroller
 nemo-media-columns
 arj
-lha
+lhasa
 lzip
 lzop
 ncompress
@@ -189,19 +197,15 @@ gdiskdump
 duplicity
 gthumb
 curl
-wine1.7
+wine
 winetricks
-wine-gecko2.24
-wine-mono4.5.2
+wine-gecko2.21
+wine-mono0.0.8
 
 ubuntu-restricted-addons 
 ubuntu-restricted-extras
 flashplugin-installer
-gstreamer0.10-ffmpeg
-gstreamer0.10-fluendo-mp3
 unrar
-gstreamer0.10-plugins-bad-multiverse
-libavcodec-extra-53
 
 gnome-dictionary
 gcstar
