@@ -18,6 +18,7 @@ vim
 
 #required by artwork
 mint-artwork-gnome
+mint-info-cinnamon
 
 jockey-gtk
 dkms
