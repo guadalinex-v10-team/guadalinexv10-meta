@@ -17,7 +17,7 @@ acl
 vim
 
 #required by artwork
-mint-artwork-gnome
+mint-artwork-cinnamon
 mint-info-cinnamon
 
 jockey-gtk
