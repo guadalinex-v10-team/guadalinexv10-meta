@@ -7,6 +7,7 @@ gecosws-firefox-wrapper
 
 synaptic
 apturl
+aptdaemon
 update-manager
 
 acpi-support
