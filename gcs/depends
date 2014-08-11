@@ -29,6 +29,7 @@ gnome-themes-standard
 gnome-themes-extras
 gnome-icon-theme-full
 gtk2-engines-murrine
+gtk2-engines-pixbuf
 
 gnome-keyring
 libpam-gnome-keyring
