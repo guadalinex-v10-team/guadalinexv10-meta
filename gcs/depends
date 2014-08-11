@@ -28,6 +28,7 @@ linux-firmware-nonfree
 gnome-themes-standard
 gnome-themes-extras
 gnome-icon-theme-full
+gtk2-engines-murrine
 
 gnome-keyring
 libpam-gnome-keyring
