@@ -156,6 +156,7 @@ evince
 simple-scan
 nemo-share
 samba
+dosfstools
 cinnamon-themes
 gnome-screenshot
 gnome-disk-utility
