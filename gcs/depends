@@ -45,7 +45,7 @@ mint-artwork-common
 plymouth-theme-ubuntu-logo
 plymouth-theme-ubuntu-text
 plymouth-theme-text
-plymouth-x11
+plymouth-theme-glow
 
 network-manager
 network-manager-gnome
