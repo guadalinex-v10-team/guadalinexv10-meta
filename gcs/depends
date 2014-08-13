@@ -159,6 +159,16 @@ simple-scan
 nemo-share
 samba
 dosfstools
+xfsprogs
+reiserfsprogs
+reiser4progs
+jfsutils
+ntfs-3g
+dosfstools
+kpartx
+dmraid
+dmsetup
+gpart
 cinnamon-themes
 gnome-screenshot
 gnome-disk-utility
