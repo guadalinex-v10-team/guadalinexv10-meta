@@ -35,6 +35,8 @@ gtk2-engines-pixbuf
 gnome-keyring
 libpam-gnome-keyring
 
+gstreamer1.0-libav
+
 ubuntu-keyring
 linuxmint-keyring
 mint-common 
