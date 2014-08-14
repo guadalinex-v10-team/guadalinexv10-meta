@@ -51,6 +51,8 @@ plymouth-theme-glow
 
 network-manager
 network-manager-gnome
+mobile-broadband-provider-info
+modemmanager
 wireless-tools
 
 xdg-utils
