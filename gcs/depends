@@ -158,6 +158,7 @@ evince
 simple-scan
 nemo-share
 samba
+smbclient
 dosfstools
 xfsprogs
 reiserfsprogs
