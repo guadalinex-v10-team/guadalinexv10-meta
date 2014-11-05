@@ -121,6 +121,9 @@ language-pack-gnome-es
 aspell-es
 libglib2.0-bin
 
+pidgin
+pidgin-plugin-pack
+
 gedit
 
 python-pexpect
