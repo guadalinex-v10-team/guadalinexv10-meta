@@ -5,6 +5,9 @@ gecosws-mdm-theme
 gecosws-icon-theme
 gecosws-firefox-wrapper
 
+sigram
+simpleafirma
+
 synaptic
 apturl
 aptdaemon
@@ -227,7 +230,7 @@ wine-mono0.0.8
 
 ubuntu-restricted-addons 
 ubuntu-restricted-extras
-flashplugin-installer
+flashplugin-installer-jda
 unrar
 
 gnome-dictionary
