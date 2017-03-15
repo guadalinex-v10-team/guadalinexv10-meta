@@ -1,9 +1,9 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de Guadalinex v6
+# Fichero de configuración de paquetes de personalización de Guadalinex v10
 
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: guadalinexv9-meta
+name: guadalinexv10-meta
 
 # Autor 
 author: Roberto C. Morano <rcmorano@emergya.es>
@@ -15,14 +15,14 @@ priority: optional
 section: metapackages
 
 # Descripción corta
-shortdesc: "Guadalinex v9 meta package whose depends conforms the whole system."
+shortdesc: "Guadalinex v10 meta package whose depends conforms the whole system."
 
 # Descipción larga, las lineas han de estar separadas por "\n "
 longdesc: "Desktop, system, libraries and the whole distribution depends are in this package."
 
 
 # Versión del paquete
-version: 9.0
+version: 10.0
 
 # Cambios en esta versión
 changes:
