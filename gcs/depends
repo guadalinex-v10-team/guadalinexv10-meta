@@ -5,7 +5,8 @@ gecosws-mdm-theme
 gecosws-icon-theme
 
 #sigram
-simpleafirma
+default-jre
+default-java-plugin
 
 synaptic
 apturl
