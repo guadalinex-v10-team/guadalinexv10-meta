@@ -3,7 +3,6 @@ guadalinexv10-artwork
 guadalinexv10-skel-conf
 gecosws-mdm-theme
 gecosws-icon-theme
-gecosws-firefox-wrapper
 
 #sigram
 simpleafirma
@@ -115,9 +114,8 @@ zip
 
 mdm
 
-thunderbird-esr
-firefox-esr
-firefox-esr-guadaext
+thunderbird
+firefox
 language-pack-gnome-es
 aspell-es
 libglib2.0-bin
