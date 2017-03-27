@@ -5,7 +5,7 @@ gecosws-mdm-theme
 gecosws-icon-theme
 gecosws-firefox-wrapper
 
-sigram
+#sigram
 simpleafirma
 
 synaptic
@@ -27,7 +27,6 @@ mint-info-cinnamon
 jockey-gtk
 dkms
 bcmwl-kernel-source
-linux-firmware-nonfree
 
 gnome-themes-standard
 gnome-themes-extras
@@ -49,8 +48,7 @@ mint-artwork-common
 
 plymouth-theme-ubuntu-logo
 plymouth-theme-ubuntu-text
-plymouth-theme-text
-plymouth-theme-glow
+plymouth-themes
 
 network-manager
 network-manager-gnome
@@ -61,7 +59,7 @@ wireless-tools
 xdg-utils
 xfonts-base
 xfonts-encodings
-xfonts-mathml
+#xfonts-mathml
 xfonts-utils
 xserver-xorg
 xserver-xorg-input-all
@@ -186,10 +184,8 @@ bluez-audio
 bluez-gstreamer 
 gnome-media 
 xfburn 
-gstreamer1.0-plugins-bad 
 gstreamer1.0-vaapi 
 gstreamer1.0-plugins-ugly 
-gstreamer1.0-fluendo-mp3 
 gstreamer1.0-tools 
 gstreamer1.0-x
 libreoffice
@@ -251,5 +247,6 @@ ndisgtk
 hardinfo
 ttf-liberation
 mintstick
+mint-translations
 gweled
 #END
