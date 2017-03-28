@@ -241,7 +241,7 @@ gnome-paint
 gnome-disk-utility
 gucharmap
 gcalctool
-gnome-media
+#gnome-media
 guvcview
 onboard
 baobab
