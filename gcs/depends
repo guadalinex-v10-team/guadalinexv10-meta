@@ -29,7 +29,7 @@ dkms
 bcmwl-kernel-source
 
 gnome-themes-standard
-gnome-themes-extras
+#gnome-themes-extras
 gnome-icon-theme-full
 gtk2-engines-murrine
 gtk2-engines-pixbuf
@@ -134,7 +134,7 @@ cinnamon
 cinnamon-screensaver
 cinnamon-control-center
 cinnamon-settings-daemon
-cinnamon-bluetooth
+#cinnamon-bluetooth
 nemo
 
 gstreamer0.10-alsa
@@ -159,7 +159,7 @@ libmtp-runtime
 rhythmbox-plugin-cdrecorder
 
 bluez
-bluez-audio
+#bluez-audio
 bluez-cups
 eog
 yelp
@@ -182,9 +182,9 @@ gpart
 cinnamon-themes
 gnome-screenshot
 gnome-disk-utility
-bluez-audio 
-bluez-gstreamer 
-gnome-media 
+#bluez-audio 
+#bluez-gstreamer 
+#gnome-media 
 xfburn 
 gstreamer1.0-vaapi 
 gstreamer1.0-plugins-ugly 
@@ -217,7 +217,7 @@ zoo
 unzip
 
 xfburn
-gdiskdump
+#gdiskdump
 duplicity
 gthumb
 curl
@@ -235,7 +235,7 @@ gnome-dictionary
 gcstar
 gtg 
 transmission-gtk
-xchat
+xchat-gnome
 gscan2pdf
 gnome-paint
 gnome-disk-utility
