@@ -221,10 +221,6 @@ xfburn
 duplicity
 gthumb
 curl
-wine
-winetricks
-wine-gecko2.21
-wine-mono0.0.8
 
 ubuntu-restricted-addons 
 ubuntu-restricted-extras
