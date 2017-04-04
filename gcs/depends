@@ -260,9 +260,15 @@ clementine
 appgrid
 keepass2
 fbreader
-gnome-orca
 xournal
 
+# Text to speech setup
+gnome-orca
+festival
+speech-dispatcher
+speech-dispatcher-festival
+festvox-palpc16k
+festvox-sflpc16k
 
 
 #END
