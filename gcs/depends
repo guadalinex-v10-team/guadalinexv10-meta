@@ -232,7 +232,12 @@ gcstar
 gtg 
 transmission-gtk
 xchat-gnome
+# gscan2pdf and its dependencies
 gscan2pdf
+djvulibre-bin
+unpaper
+cuneiform
+
 gnome-paint
 gnome-disk-utility
 gucharmap
