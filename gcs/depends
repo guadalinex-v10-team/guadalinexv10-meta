@@ -8,7 +8,7 @@ gecosws-icon-theme
 default-jre
 default-java-plugin
 
-synaptic
+#synaptic
 apturl
 aptdaemon
 update-manager
@@ -238,7 +238,9 @@ djvulibre-bin
 unpaper
 cuneiform
 
-gnome-paint
+#gnome-paint
+pinta
+
 gnome-disk-utility
 gucharmap
 gcalctool
@@ -252,4 +254,15 @@ ttf-liberation
 mintstick
 mint-translations
 gweled
+
+# Guadalinex V10 applications
+clementine
+appgrid
+keepass2
+fbreader
+gnome-orca
+xournal
+
+
+
 #END
