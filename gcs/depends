@@ -84,7 +84,7 @@ usb-modeswitch-data
 
 wspanish 
 traceroute 
-grub-pc
+#grub-pc
 mtools 
 anacron 
 whois
