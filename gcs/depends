@@ -269,6 +269,8 @@ speech-dispatcher
 speech-dispatcher-festival
 festvox-palpc16k
 festvox-sflpc16k
+sox
+sound-icons
 
 
 #END
