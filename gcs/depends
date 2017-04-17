@@ -230,7 +230,8 @@ unrar
 
 gnome-dictionary
 gcstar
-gtg 
+gtg
+python-notify
 transmission-gtk
 xchat-gnome
 # gscan2pdf and its dependencies
