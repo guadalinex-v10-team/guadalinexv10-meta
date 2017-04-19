@@ -9,6 +9,12 @@ guadalinexv10-system-conf
 #sigram
 default-jre
 default-java-plugin
+pcscd
+libccid
+libacsccid1
+libpcsclite1
+pcsc-tools
+pinentry-gtk2
 
 #synaptic
 apturl
