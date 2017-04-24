@@ -282,6 +282,6 @@ festvox-sflpc16k
 sox
 sound-icons
 espeak
-
+a11y-profile-manager
 
 #END
