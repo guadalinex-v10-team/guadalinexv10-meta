@@ -282,6 +282,10 @@ festvox-sflpc16k
 sox
 sound-icons
 espeak
+
+# Accesibility in CD-ROM boot menu
 a11y-profile-manager
+gnome-accessibility-profiles
+gnome-accessibility-themes
 
 #END
