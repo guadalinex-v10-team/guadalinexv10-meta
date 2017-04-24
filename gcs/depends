@@ -270,6 +270,7 @@ appgrid
 keepass2
 fbreader
 xournal
+gdebi
 
 # Text to speech setup
 gnome-orca
@@ -280,6 +281,7 @@ festvox-palpc16k
 festvox-sflpc16k
 sox
 sound-icons
+espeak
 
 
 #END
