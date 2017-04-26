@@ -156,6 +156,8 @@ gstreamer1.0-plugins-ugly
 gstreamer1.0-x
 sessioninstaller
 pulseaudio-module-bluetooth
+libcanberra-pulse 
+libcanberra-gstreamer
 
 alsa-utils
 alsa-base
@@ -287,5 +289,6 @@ espeak
 a11y-profile-manager
 gnome-accessibility-profiles
 gnome-accessibility-themes
+dconf-cli
 
 #END
