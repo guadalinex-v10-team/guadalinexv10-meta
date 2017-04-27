@@ -257,7 +257,6 @@ gucharmap
 gcalctool
 #gnome-media
 guvcview
-onboard
 baobab
 ndisgtk
 hardinfo
@@ -302,5 +301,6 @@ indicator-power
 indicator-printers
 indicator-session
 indicator-sound
+ubuntu-mono
 
 #END
