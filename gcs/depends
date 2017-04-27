@@ -286,11 +286,11 @@ espeak
 
 # Accesibility in CD-ROM boot menu
 a11y-profile-manager
-gnome-accessibility-profiles
 gnome-accessibility-themes
 dconf-cli
 
 # Indicators for "only-ubiquity" installation mode
+a11y-profile-manager-indicator
 indicator-application
 indicator-appmenu
 indicator-bluetooth
