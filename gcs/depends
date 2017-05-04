@@ -289,18 +289,4 @@ a11y-profile-manager
 gnome-accessibility-themes
 dconf-cli
 
-# Indicators for "only-ubiquity" installation mode
-a11y-profile-manager-indicator
-indicator-application
-indicator-appmenu
-indicator-bluetooth
-indicator-datetime
-indicator-keyboard
-indicator-messages
-indicator-power
-indicator-printers
-indicator-session
-indicator-sound
-ubuntu-mono
-
 #END
