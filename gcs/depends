@@ -288,5 +288,6 @@ espeak
 a11y-profile-manager
 gnome-accessibility-themes
 dconf-cli
+inotify-tools
 
 #END
