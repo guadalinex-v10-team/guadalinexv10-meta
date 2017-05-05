@@ -290,4 +290,12 @@ gnome-accessibility-themes
 dconf-cli
 inotify-tools
 
+# Braille keyboard
+brltty
+brltty-speechd
+brltty-x11
+console-braille
+xbrlapi 
+
+
 #END
